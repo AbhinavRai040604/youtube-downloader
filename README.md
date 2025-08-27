@@ -1,15 +1,15 @@
 # YouTube Downloader
 
-A simple Python-based tool to download YouTube videos and audio in different formats and resolutions.  
-Built with [pytube](https://github.com/pytube/pytube).
+A simple Python-based YouTube downloader using [pytube](https://github.com/pytube/pytube).  
+This tool allows you to download YouTube videos in different resolutions or extract audio as MP3.
 
 ---
 
 ## 🚀 Features
-- Download videos in different resolutions (360p, 720p, 1080p, etc.)
-- Extract and download audio (MP3 format)
+- Download videos in multiple resolutions (360p, 720p, 1080p, etc.)
+- Extract and save audio (MP3 format)
 - Lightweight and easy-to-use script
-- Cross-platform support (Windows, Linux, macOS)
+- Works on Windows, Linux, and macOS
 
 ---
 
